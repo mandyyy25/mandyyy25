@@ -6,7 +6,7 @@
 - ☔ I’m currently learning Python and SQL and looking forword to soon develop my skills in javascript
 - 📚 I’m looking to collaborate on any projet that i can learn something new
 - 😄 Pronouns: she/her
-- 🌍 Fun fact: I come from the Amazon jungle <div> <img align="left" alt="mandyexcel" height="30" width="40" src=""> </div>
+- 🌍 Fun fact: I come from the Amazon jungle
   
 
 <div style="display: inline_block"><br>
