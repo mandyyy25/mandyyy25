@@ -1,16 +1,26 @@
-### Hi there 👋
+# HELLOW 🎈
+### I'm Amanda.
+#### I've just started my journey as a data scientist and analyst. I'm pretty much into the field, mainly when it comes to business analysis and machine learning.
+##
+- 🔭 I’m currently working on a project on the course i'm studying
+- ☔ I’m currently learning Python and SQL and looking forword to soon develop my skills in javascript
+- 📚 I’m looking to collaborate on any projet that i can learn something new
+- 😄 Pronouns: she/her
+- 🌍 Fun fact: I come from the Amazon jungle <div> <img align="left" alt="mandyexcel" height="30" width="40" src=""> </div>
+  
 
-<!--
-**mandyyy25/mandyyy25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="display: inline_block"><br>
+  <img align="center" alt="mandyexcel" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjaAvjKt34HucXb9tRzgvH0fjuxNDgadwFVS_BmwjDbA&s">
+  <img align="center" alt="mandysql" height="50" width="70" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuE8xJP8ybaOSuNxn31t0hmAuYXJgdtwP-VxX83OtJag&s">
+  <img align="center" alt="mandyPython" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" alt="mandybi" height="30" width="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png" />    
+</div>
+  
+  ##
+  <div> 
+  <a href = "mailto:amanda15sousa50@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://https://www.linkedin.com/in/amanda-sousa-480a95234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  </div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
