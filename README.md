@@ -1,5 +1,6 @@
 # HELLOW 🎈
 ### I'm Amanda.
+### First, my friend. Thak you for take your time to give a look at my profile, your mere atention to me it's very significant. 
 #### I've just started my journey as a data scientist and analyst. I'm pretty much into the field, mainly when it comes to business analysis and machine learning.
 ##
 - #### 🔭 I’m currently working on a project on the course i'm studying
