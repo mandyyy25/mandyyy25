@@ -2,12 +2,12 @@
 ### I'm Amanda.
 #### I've just started my journey as a data scientist and analyst. I'm pretty much into the field, mainly when it comes to business analysis and machine learning.
 ##
-- 🔭 I’m currently working on a project on the course i'm studying
-- ☔ I’m learning Python and SQL and looking forward to soon develop my skills in javascript
-- 👩‍💻 Already have advanced skills in Excel and Power BI (know how to manipuled VBA and Dax language)
-- 📚 I’m looking to collaborate on any projet that i can learn something new
-- 😄 Pronouns: she/her
-- 🌍 Fun fact: I come from the Amazon jungle
+- #### 🔭 I’m currently working on a project on the course i'm studying
+- ####  🏃‍♀️ I’m learning Python and SQL and looking forward to soon develop my skills in javascript
+- #### 👩‍💻 Already have advanced skills in Excel and Power BI (know how to manipuled VBA and Dax language)
+- #### 📚 I’m looking to collaborate on any projet that i can learn something new
+- #### 😄 Pronouns: she/her
+- #### 🌍 Fun fact: I come from the Amazon jungle (🌦 Belém do Pará)
 <div> <img align="right" alt="mandyexcel" height="180" width="160" src="https://github.com/mandyyy25/mandyyy25/assets/161378989/71d21537-5863-4051-b7e1-baf91afa226d"> </div>
 
 ##
