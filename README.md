@@ -5,7 +5,7 @@
 ##
 - #### 🔭 I’m currently working on a project on the course i'm studying
 - ####  🏃‍♀️ I’m learning Python and SQL and looking forward to soon develop my skills in javascript
-- #### 👩‍💻 Already have advanced skills in Excel and Power BI (know how to manipuled VBA and Dax language)
+- #### 👩‍💻 Already have advanced skills in Excel and Power BI (I know advanced functions and how to manipuled VBA and Dax language)
 - #### 📚 I’m looking to collaborate on any projet that i can learn something new
 - #### 😄 Pronouns: she/her
 - #### 🌍 Fun fact: I come from the Amazon jungle (🌦 Belém do Pará)
