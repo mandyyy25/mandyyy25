@@ -4,7 +4,7 @@
 #### I've just started my journey as a data scientist and analyst. I'm pretty much into the field, mainly when it comes to business analysis and machine learning. Moreover, I want you to you to feel the right to give your feedback whether it relays on positive or negative (I'm willing to take any assessment as an opportunitie to get better more and more). 
 ##
 - #### 🔭 I’m currently working on a project on the course i'm studying
-- ####  🏃‍♀️ I’m learning Python and SQL and looking forward to soon develop my skills in javascript
+- ####  🏃‍♀️ I have knowledge in Python and SQL and looking forward to soon develop my skills in javascript
 - #### 👩‍💻 Already have advanced skills in Excel and Power BI (I know advanced functions and how to manipuled VBA and Dax language)
 - #### 📚 I’m looking to collaborate on any projet that i can learn something new
 - #### 😄 Pronouns: she/her
